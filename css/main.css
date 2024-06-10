@@ -3,7 +3,7 @@
     --secondary: #E8DFCA;
     --light: #F5EFE6;
     --dark: #1A4D2E;
-}
+};
 
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -11,20 +11,4 @@
     font-size: 1rem;
     margin: 0;
     padding: 0;
-}
-
-.text-primary {
-    color: var(--primary);
-}
-
-.text-secondary {
-    color: var(--secondary);
-}
-
-.text-light {
-    color: var(--light);
-}
-
-.text-dark {
-    color: var(--dark);
-}
+};
