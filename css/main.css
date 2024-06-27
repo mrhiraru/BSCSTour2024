@@ -14,7 +14,7 @@
 }
 
 main {
-    background-image: linear-gradient(to top, var(--primary) 0%, rgba(67, 104, 80, 0.5) 100%), url("../images/Travel-BG.jpg");
+    background-image: linear-gradient(to top, var(--primary) 0%, rgba(67, 104, 80, 0.5) 100%), url("../images/Header\ BG.jpg");
     background-size: cover;
     background-position: center;
 }
