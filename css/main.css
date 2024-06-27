@@ -34,7 +34,7 @@
 }
 
 .speaker-bg {
-    background-image: linear-gradient(to top, var(--primary) 0%, rgba(67, 104, 80, 0.5) 100%), url("../images/Header\ BG\ 4.jpg");
+    background-image: linear-gradient(to top, var(--primary) 0%, rgba(67, 104, 80, 0.5) 100%), url("../images/Header\ BG\ 4.JPG");
     background-size: cover;
     background-position-y: 35%;
     height: 300px;
