@@ -19,6 +19,20 @@
     background-position: center;
 }
 
+.venue-bg {
+    background-image: linear-gradient(to top, var(--primary) 0%, rgba(67, 104, 80, 0.5) 100%), url("../images/Header\ BG.jpg");
+    background-size: cover;
+    background-position-y: 69%;
+    height: 300px;
+}
+
+.schedule-bg {
+    background-image: linear-gradient(to top, var(--primary) 0%, rgba(67, 104, 80, 0.5) 100%), url("../images/Header\ BG\ 3.jpg");
+    background-size: cover;
+    background-position-y: 40%;
+    height: 300px;
+}
+
 .fs-7 {
     font-size: .85rem;
 }
